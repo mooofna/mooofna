@@ -10,5 +10,5 @@ I am an MSc student in Data Science at ETH Zurich. My work so far has been machi
 
 Before ETH I studied Computer Science at TU Dresden and worked at the EKFZ for Digital Health, Fraunhofer IVI and EY in Paris.
 
-[LinkedIn](https://www.linkedin.com/in/maurice-heide) and [Google Scholar](https://scholar.google.com/citations?user=x6GTx8kAAAAJ)
+[Homepage](https://mooofna.github.io), [LinkedIn](https://www.linkedin.com/in/maurice-heide) and [Google Scholar](https://scholar.google.com/citations?user=x6GTx8kAAAAJ)
 
